@@ -16,7 +16,7 @@ class DepositoCombustibleTest {
 
 	@Test
 	void testEstaVacio() {
-		fail("Not yet implemented");
+		assertTrue(100 == 0);
 	}
 
 	@Test
