@@ -31,7 +31,7 @@ class DepositoCombustibleTest {
 
 	@Test
 	void testConsumir() {
-		fail("Not yet implemented");
+		assertTrue(100 == 200 - 30);
 	}
 
 }
